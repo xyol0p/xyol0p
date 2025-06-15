@@ -5,3 +5,4 @@
 > whoami
 I'm a self-taught programmer who loves building sleek things that work in the dark.
 I mostly work with JavaScript, Linux, Python and terminal-based UIs.
+<pre> ``` ____ ___ .__ _______ \ \/ /___.__. ____ | | \ _ \ ______ \ /< | |/ _ \| | / /_\ \\____ \ / \ \___ ( <_> ) |_\ \_/ \ |_> > /___/\ \/ ____|\____/|____/\_____ / __/ \_/\/ \/|__| ``` </pre>
